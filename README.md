@@ -23,7 +23,8 @@ Entra ID.<br />
 
 <p>
 <img width="1919" height="628" alt="image"
-src="https://github.com/user-attachments/assets/608b84c3-7759-4cd1-be2e-fc14d98a658b" />
+<img width="1920" height="858" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/c57f2c0f-57f2-43a2-9795-b908e4077bf1" />
+
 
   
 </p>
@@ -36,12 +37,14 @@ User's that have Joined organization.
 
 <p>
 <img width="999" height="764" alt="image"
-src="https://github.com/user-attachments/assets/425ff6e0-6bf2-467a-9de5-7f9f6b64e188" />
+<img width="1920" height="787" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/5e134afc-dde1-4d44-bc39-4dbcf5cc48cb" />
+
 
   
 <p>
 <img width="1024" height="759" alt="image"
-src="https://github.com/user-attachments/assets/c97eaf5f-77f7-4591-9b7f-39647833afe8" />
+<img width="1920" height="793" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/22f7c6b5-45f3-4bf7-a467-099bc518bb48" />
+
 
   
 </p>
@@ -54,7 +57,8 @@ User that has transfered to another department in organization. Went from IT to 
 
 <p>
 <img width="1918" height="740" alt="image"
-src="https://github.com/user-attachments/assets/db4ab28a-097b-4861-b38a-033efc63a127" />
+<img width="1920" height="838" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/08e930ea-7629-424b-9747-8aa6e81fe824" />
+
 
   
 </p>
